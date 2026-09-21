@@ -1,2 +1,4 @@
 params.yaml
 WindowData.json
+*.ods
+/qrpt.exe
